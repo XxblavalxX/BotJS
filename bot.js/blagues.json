@@ -1,0 +1,12 @@
+{"blagues":[
+    {"id":1 , "question":"Si je suis la moitiée d'un compas, qui suis-je ?" , "reponse":"un con."} ,
+    {"id":2 , "question":"Quelle est la meilleur notes que peut avoir un informaticien ?" , "reponse":"un C++."} ,
+    {"id":3 , "question":"Que répond un informaticien quand on lui demande comment il vas ?" , "reponse":"eh ben ecoute JAVA."} ,
+    {"id":4 , "question":"Quelle est la marque preférer des informaticiens ?" , "reponse":"LS (elesse). "} ,
+    {"id":5 , "question":"Quelle est le sport préféré des informaticiens ? " , "reponse":"Le ls -RALI."} ,
+    {"id":6 , "question":"Comment un informaticien dit bonjour ? " , "reponse":"utilise TCP ."} ,
+    {"id":7 , "question":"Quelle est le goûter préférée des informaticiens ? " , "reponse":"Les COOKIES ."} ,
+    {"id":8 , "question":"Comment dit-on a un mathematicien de partir ? " , "reponse":"Tu prends tes cliques et tes stables et tu degage."} ,
+    {"id":9 , "question":"System.out.print ont une fille, comment s'appelle-t-elle ?" , "reponse":"Helène ln"} 
+], "nb" : 9}
+
